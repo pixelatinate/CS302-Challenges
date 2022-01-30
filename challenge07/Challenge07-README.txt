@@ -1,6 +1,6 @@
 Challenge 07 - README
 
-The details for this challenge are written up here: https://web.eecs.utk.edu/~semrich/cs302-21/assignments/ch08.html
+The details for this challenge are written up here: https://web.eecs.utk.edu/~semrich/cs302-21/assignments/ch09.html
 
 The solution.cpp file contains the code I wrote to solve the challenge.
 The Makefile compiles the solution.cpp, pipes in the input, and then compares it to the correct input.
@@ -9,6 +9,5 @@ The Makefile compiles the solution.cpp, pipes in the input, and then compares it
 		Testing memory...
 
 Then the solution is an acceptable answer. 
-Note: This challenge also doesn't technically pass the memory test, but I'll revisit it at a different time. 
 
 Input are the test cases.
